@@ -49,6 +49,13 @@ $extraHead = '
         .gallery-item:hover .gallery-overlay {
             opacity: 1;
         }
+        @media (max-width: 768px) {
+            .gallery-overlay {
+                opacity: 1 !important;
+                background: linear-gradient(to top, rgba(15,23,42,0.95) 0%, rgba(15,23,42,0.5) 70%, transparent 100%) !important;
+                padding: 1.2rem 1rem 0.8rem !important;
+            }
+        }
     </style>
 ';
 include 'includes/header.php';

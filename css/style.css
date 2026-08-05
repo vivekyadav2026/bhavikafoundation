@@ -1,32 +1,33 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800;900&display=swap');
 
 :root {
-    /* Original Color Palette Kept */
-    --primary: #0E7A3D;
-    --secondary: #12A150;
-    --dark: #0F172A; /* Deepened dark for better contrast */
-    --light: #F8FAFC; /* Cleaner off-white */
-    --accent: #FF5A5F;
-    --text: #334155;
+    /* Royal Emerald & Gold Theme Palette */
+    --primary: #046A38;       /* Deep Royal Emerald Green */
+    --secondary: #00A859;     /* Vibrant Emerald Green */
+    --accent: #F59E0B;        /* Warm Gold / Saffron Amber */
+    --accent-hover: #D97706;  /* Deep Gold */
+    --dark: #0B1E14;          /* Deep Royal Dark */
+    --light: #F4F9F6;         /* Clean Fresh Mint White */
+    --text: #1E293B;          /* Slate Dark Text */
     --muted: #64748B;
     --white: #FFFFFF;
     
     /* Muted Tints for Depth */
-    --primary-tint: rgba(14, 122, 61, 0.04);
-    --primary-light: rgba(14, 122, 61, 0.1);
-    --accent-tint: rgba(255, 90, 95, 0.05);
-    --border: rgba(15, 23, 42, 0.08);
+    --primary-tint: rgba(4, 106, 56, 0.05);
+    --primary-light: rgba(4, 106, 56, 0.12);
+    --accent-tint: rgba(245, 158, 11, 0.1);
+    --border: rgba(11, 30, 20, 0.08);
 
     /* Typography */
     --font-heading: 'Outfit', sans-serif;
     --font-body: 'Inter', sans-serif;
 
     /* Elevated, Layered Shadows */
-    --shadow-xs: 0px 2px 4px rgba(15, 23, 42, 0.02), 0px 1px 2px rgba(15, 23, 42, 0.04);
-    --shadow-sm: 0px 4px 8px rgba(15, 23, 42, 0.04), 0px 2px 4px rgba(15, 23, 42, 0.03);
-    --shadow-md: 0px 12px 24px rgba(15, 23, 42, 0.05), 0px 4px 8px rgba(15, 23, 42, 0.03);
-    --shadow-lg: 0px 24px 48px rgba(15, 23, 42, 0.08), 0px 12px 24px rgba(15, 23, 42, 0.04);
-    --shadow-hover: 0px 32px 64px rgba(14, 122, 61, 0.15), 0px 16px 32px rgba(14, 122, 61, 0.08);
+    --shadow-xs: 0px 2px 4px rgba(11, 30, 20, 0.03);
+    --shadow-sm: 0px 4px 8px rgba(11, 30, 20, 0.05);
+    --shadow-md: 0px 12px 24px rgba(11, 30, 20, 0.08);
+    --shadow-lg: 0px 24px 48px rgba(11, 30, 20, 0.12);
+    --shadow-hover: 0px 32px 64px rgba(4, 106, 56, 0.2), 0px 16px 32px rgba(245, 158, 11, 0.12);
     
     /* Elegant Radii */
     --radius-sm: 8px;
@@ -1405,7 +1406,7 @@ p { color: var(--text); }
     width: 30px;
     height: 30px;
     background-color: var(--white);
-    color: #0E7A3D !important; /* Theme Green Icon */
+    color: var(--primary) !important; /* Theme Primary Icon */
     border-radius: 50%;
     display: inline-flex;
     align-items: center;
@@ -1432,7 +1433,7 @@ p { color: var(--text); }
 }
 
 .news-ticker-badge {
-    background-color: #0E7A3D; /* Theme Green */
+    background-color: var(--primary); /* Theme Primary */
     color: var(--white);
     padding: 0 16px;
     height: 100%;
@@ -1574,7 +1575,7 @@ p { color: var(--text); }
 }
 
 .carousel-indicators .active {
-    background-color: #0E7A3D; /* Theme Green */
+    background-color: var(--primary); /* Theme Primary */
     transform: scale(1.2);
 }
 
@@ -1692,5 +1693,8 @@ p { color: var(--text); }
         font-size: 0.85rem !important;
         padding: 8px 10px !important;
         border-radius: 20px !important;
+    }
+    .p-5 {
+        padding: 1.5rem 1.25rem !important;
     }
 }

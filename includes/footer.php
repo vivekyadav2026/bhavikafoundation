@@ -1,13 +1,13 @@
     <!-- Footer Dense -->
     <footer class="footer-dense-dark mt-0">
         <div class="container">
-            <div class="row g-5">
-                <div class="col-lg-4 col-md-6 pe-lg-5 text-center text-md-start">
+            <div class="row g-4 g-lg-5">
+                <div class="col-lg-4 col-md-6 pe-lg-5 text-start">
                     <a class="navbar-brand-custom mb-4 d-inline-flex align-items-center" href="index.php" style="color: var(--white);">
-                        <img src="images/logo.jpg" alt="Bhavika Welfare Foundation Logo" style="height: 82px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.1); background: var(--white); padding: 4px;"> 
+                        <img src="images/logo.jpg" alt="Bhavika Welfare Foundation Logo" style="height: 75px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.1); background: var(--white); padding: 4px;"> 
                     </a>
-                    <p class="mb-4 text-white-50 lh-lg">ग्रामीण शिक्षा, महिला सशक्तिकरण, स्वच्छ स्वास्थ्य सेवा और पारिस्थितिक स्थिरता के लिए समर्पित एक पंजीकृत सार्वजनिक धर्मार्थ ट्रस्ट।</p>
-                    <div class="d-flex flex-column align-items-center align-items-md-start gap-2 mb-4">
+                    <p class="mb-4 text-white-50 lh-lg" style="font-size: 0.95rem;">ग्रामीण शिक्षा, महिला सशक्तिकरण, स्वच्छ स्वास्थ्य सेवा और पारिस्थितिक स्थिरता के लिए समर्पित एक पंजीकृत सार्वजनिक धर्मार्थ ट्रस्ट।</p>
+                    <div class="d-flex flex-column align-items-start gap-2 mb-4">
                         <span class="d-block small text-white-50"><i class="fa-solid fa-check text-primary me-2"></i> CIN NO.: U88900UT2026NPL021986</span>
                         <span class="d-block small text-white-50"><i class="fa-solid fa-check text-primary me-2"></i> REGISTRATION NO.: 021986</span>
                         <span class="d-block small text-white-50"><i class="fa-solid fa-check text-primary me-2"></i> SECTION 8 LICENCE NO.: 189318</span>
@@ -16,9 +16,9 @@
                         <span class="d-block small text-white-50"><i class="fa-solid fa-check text-primary me-2"></i> DARPAN ID: UK/2026/1165289</span>
                     </div>
                 </div>
-                <div class="col-lg-2 col-md-6 text-center text-md-start">
-                    <h5>त्वरित लिंक</h5>
-                    <ul class="list-unstyled d-flex flex-column align-items-center align-items-md-start gap-3 mt-4">
+                <div class="col-lg-2 col-md-6 text-start">
+                    <h5 class="fw-bold text-white mb-3">त्वरित लिंक</h5>
+                    <ul class="list-unstyled d-flex flex-column align-items-start gap-2.5 mt-3">
                         <li><a href="index.php">मुख्य पृष्ठ</a></li>
                         <li><a href="about.php">हमारे बारे में</a></li>
                         <li><a href="programs.php">कार्यक्रम</a></li>
@@ -28,20 +28,20 @@
                         <li><a href="donate.php" class="text-accent fw-bold">अभी दान करें</a></li>
                     </ul>
                 </div>
-                <div class="col-lg-3 col-md-6 text-center text-md-start">
-                    <h5>संपर्क सूत्र</h5>
-                    <ul class="list-unstyled d-flex flex-column align-items-center align-items-md-start gap-4 mt-4 text-white-50">
+                <div class="col-lg-3 col-md-6 text-start">
+                    <h5 class="fw-bold text-white mb-3">संपर्क सूत्र</h5>
+                    <ul class="list-unstyled d-flex flex-column align-items-start gap-3 mt-3 text-white-50" style="font-size: 0.9rem;">
                         <li class="d-flex align-items-start text-start gap-3">
                             <i class="fa-solid fa-location-dot text-primary mt-1"></i> 
                             <div>
-                                <strong>पंजीकृत कार्यालय (Registered Office):</strong><br>
+                                <strong class="text-white">पंजीकृत कार्यालय:</strong><br>
                                 Sultanpur, Golapar, Haldwani, Uttarakhand
                             </div>
                         </li>
                         <li class="d-flex align-items-start text-start gap-3">
                             <i class="fa-solid fa-location-dot text-primary mt-1"></i> 
                             <div>
-                                <strong>कार्यालय का पता (Office Address):</strong><br>
+                                <strong class="text-white">कार्यालय का पता:</strong><br>
                                 Sultanpur, Golapar, Haldwani, Uttarakhand
                             </div>
                         </li>
@@ -55,14 +55,15 @@
                         </li>
                     </ul>
                 </div>
-                <div class="col-lg-3 col-md-6 text-center text-lg-start">
-                    <h5>न्यूजलेटर</h5>
-                    <p class="mb-4 text-white-50 mt-4">सीधे अपने इनबॉक्स में मासिक प्रभाव रिपोर्ट प्राप्त करने के लिए सदस्यता लें।</p>
-                    <form class="input-group">
-                        <input type="email" class="form-control footer-input-field" placeholder="ईमेल पता" required style="border-radius: 30px 0 0 30px; border-right: none;">
-                        <button class="btn btn-pill-primary" type="submit" style="border-radius: 0 30px 30px 0; padding: 14px 28px; box-shadow: none;"><i class="fa-regular fa-paper-plane"></i></button>
+                <div class="col-lg-3 col-md-6 text-start">
+                    <h5 class="fw-bold text-white mb-3">न्यूजलेटर</h5>
+                    <p class="mb-3 text-white-50 small">मासिक प्रभाव रिपोर्ट और अपडेट प्राप्त करने के लिए सदस्यता लें।</p>
+                    <form class="input-group mb-4">
+                        <input type="email" class="form-control footer-input-field" placeholder="ईमेल पता" required style="border-radius: 30px 0 0 30px; border-right: none; font-size: 0.88rem;">
+                        <button class="btn btn-pill-primary" type="submit" style="border-radius: 0 30px 30px 0; padding: 10px 20px; box-shadow: none;"><i class="fa-regular fa-paper-plane"></i></button>
                     </form>
-                    <div class="d-flex justify-content-center justify-content-lg-start gap-3 mt-4 mt-lg-5">
+                    <h6 class="text-white-50 small fw-bold mb-3">सोशल मीडिया</h6>
+                    <div class="d-flex justify-content-start gap-3">
                         <a href="https://www.facebook.com/bhavikawelfarefoundation" target="_blank" class="footer-circle-btn facebook" aria-label="Facebook"><i class="fa-brands fa-facebook-f"></i></a>
                         <a href="https://www.instagram.com/bhavikawelfarefoundation?igsh=ZWdtdTB1bXdlNjQz" target="_blank" class="footer-circle-btn instagram" aria-label="Instagram"><i class="fa-brands fa-instagram"></i></a>
                         <a href="https://www.bhavikawelfarefoundation.org" target="_blank" class="footer-circle-btn website" aria-label="Website"><i class="fa-solid fa-globe"></i></a>

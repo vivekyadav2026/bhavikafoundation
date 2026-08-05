@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $pageTitle = "Bhavika Welfare Foundation | Premium NGO Restoring Hope";
 $pageDescription = "A premium registered public charitable trust dedicated to rural education, woman empowerment, clean healthcare, and ecological sustainability. Registered under Section 80G & 12A.";
 $activePage = "home";
@@ -6,7 +6,7 @@ include 'includes/header.php';
 ?>
 
     <!-- Hero Banner Slider Section -->
-    <div id="heroCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="6000">
+    <div id="heroCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="5000">
         <div class="carousel-indicators">
             <button type="button" data-bs-target="#heroCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
             <button type="button" data-bs-target="#heroCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
@@ -15,92 +15,99 @@ include 'includes/header.php';
             <button type="button" data-bs-target="#heroCarousel" data-bs-slide-to="4" aria-label="Slide 5"></button>
         </div>
         <div class="carousel-inner">
-            <!-- Slide 1 -->
+            
+            <!-- Slide 1: Mission & Education -->
             <div class="carousel-item active">
-                <div class="carousel-img-wrap" style="background-image: linear-gradient(rgba(15, 23, 42, 0.6), rgba(15, 23, 42, 0.6)), url('images/banner_shg_mission.png');"></div>
+                <div class="carousel-img-wrap" style="background-image: linear-gradient(rgba(15, 23, 42, 0.65), rgba(15, 23, 42, 0.75)), url('images/banner_shg_mission.png');"></div>
                 <div class="carousel-caption-custom container">
                     <div class="row w-100 justify-content-center">
                         <div class="col-lg-10 col-xl-8 text-center" data-aos="fade-up" data-aos-duration="1000">
-                            <span class="badge bg-primary text-white rounded-pill px-3 py-2 mb-3 fw-bold text-uppercase fs-7 tracking-wider">Our Mission</span>
-                            <h1 class="display-4 text-white fw-bold mb-4 font-heading text-gradient-light">आपका सहयोग, हमारा मिशन</h1>
-                            <p class="lead text-light-50 mb-5 text-shadow-sm fs-5">हमारे मंच के माध्यम से महिलाओं और गरीब परिवारों के जीवन में बदलाव लाने में आपका योगदान महत्वपूर्ण है।</p>
+                            <span class="badge bg-primary text-white rounded-pill px-4 py-2 mb-3 fw-bold text-uppercase fs-7 tracking-wider shadow"><i class="fa-solid fa-graduation-cap me-2"></i> Education & Mission</span>
+                            <h1 class="display-4 text-white fw-extrabold mb-4 font-heading text-gradient-light">सशक्त समाज, उज्ज्वल भविष्य</h1>
+                            <p class="lead text-light-50 mb-5 text-shadow-sm fs-5">ग्रामीण बच्चों और महिलाओं को गुणवत्तापूर्ण शिक्षा और कौशल विकास से जोड़कर एक समृद्ध समाज का निर्माण करना।</p>
                             <div class="d-flex flex-wrap justify-content-center gap-3">
-                                <a href="donate.php" class="btn btn-pill btn-pill-accent btn-lg"><i class="fa-solid fa-heart me-2"></i> सहयोग करें</a>
-                                <a href="contact.php" class="btn btn-pill btn-pill-outline-light btn-lg"><i class="fa-solid fa-phone me-2"></i> संपर्क करें</a>
+                                <a href="donate.php" class="btn btn-pill btn-pill-accent btn-lg shadow-lg"><i class="fa-solid fa-heart me-2"></i> सहयोग करें</a>
+                                <a href="programs.php" class="btn btn-pill btn-pill-outline-light btn-lg"><i class="fa-solid fa-list me-2"></i> हमारे कार्यक्रम</a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- Slide 2 -->
+
+            <!-- Slide 2: Women Empowerment -->
             <div class="carousel-item">
-                <div class="carousel-img-wrap" style="background-image: linear-gradient(rgba(15, 23, 42, 0.6), rgba(15, 23, 42, 0.6)), url('images/banner_shg_empowerment.png');"></div>
+                <div class="carousel-img-wrap" style="background-image: linear-gradient(rgba(15, 23, 42, 0.65), rgba(15, 23, 42, 0.75)), url('images/banner_shg_empowerment.png');"></div>
                 <div class="carousel-caption-custom container">
                     <div class="row w-100 justify-content-center">
                         <div class="col-lg-10 col-xl-8 text-center">
-                            <span class="badge bg-primary text-white rounded-pill px-3 py-2 mb-3 fw-bold text-uppercase fs-7 tracking-wider">Empowerment</span>
-                            <h1 class="display-4 text-white fw-bold mb-4 font-heading text-gradient-light">हमारा मंच – महिलाओं का सशक्तिकरण</h1>
-                            <p class="lead text-light-50 mb-5 text-shadow-sm fs-5">गरीब और कमजोर महिलाओं को आर्थिक, सामाजिक और शैक्षणिक रूप से सशक्त बनाने के लिए हम काम कर रहे हैं।</p>
+                            <span class="badge bg-success text-white rounded-pill px-4 py-2 mb-3 fw-bold text-uppercase fs-7 tracking-wider shadow"><i class="fa-solid fa-venus me-2"></i> Women Empowerment</span>
+                            <h1 class="display-4 text-white fw-extrabold mb-4 font-heading text-gradient-light">महिला आत्मनिर्भरता एवं सम्मान</h1>
+                            <p class="lead text-light-50 mb-5 text-shadow-sm fs-5">ग्रामीण महिलाओं को शैक्षणिक, सामाजिक एवं आर्थिक रूप से सशक्त बनाकर स्वावलंबी बनाने के लिए निरंतर प्रयत्नशील।</p>
                             <div class="d-flex flex-wrap justify-content-center gap-3">
-                                <a href="donate.php" class="btn btn-pill btn-pill-accent btn-lg"><i class="fa-solid fa-heart me-2"></i> सहयोग करें</a>
+                                <a href="donate.php" class="btn btn-pill btn-pill-accent btn-lg shadow-lg"><i class="fa-solid fa-heart me-2"></i> अभी दान करें</a>
                                 <a href="contact.php" class="btn btn-pill btn-pill-outline-light btn-lg"><i class="fa-solid fa-phone me-2"></i> संपर्क करें</a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- Slide 3 -->
+
+            <!-- Slide 3: Healthcare & Welfare -->
             <div class="carousel-item">
-                <div class="carousel-img-wrap" style="background-image: linear-gradient(rgba(15, 23, 42, 0.6), rgba(15, 23, 42, 0.6)), url('images/banner_shg_support.png');"></div>
+                <div class="carousel-img-wrap" style="background-image: linear-gradient(rgba(15, 23, 42, 0.65), rgba(15, 23, 42, 0.75)), url('images/banner_shg_support.png');"></div>
                 <div class="carousel-caption-custom container">
                     <div class="row w-100 justify-content-center">
                         <div class="col-lg-10 col-xl-8 text-center">
-                            <span class="badge bg-primary text-white rounded-pill px-3 py-2 mb-3 fw-bold text-uppercase fs-7 tracking-wider">Join Us</span>
-                            <h1 class="display-4 text-white fw-bold mb-4 font-heading text-gradient-light">एक बेहतर समाज का निर्माण</h1>
-                            <p class="lead text-light-50 mb-5 text-shadow-sm fs-5">ग्रामीण समाज के पिछड़े वर्गों और गरीब परिवारों को मुख्यधारा से जोड़कर खुशहाली लाना ही भाविका वेलफेयर फाउंडेशन का संकल्प है।</p>
+                            <span class="badge bg-danger text-white rounded-pill px-4 py-2 mb-3 fw-bold text-uppercase fs-7 tracking-wider shadow"><i class="fa-solid fa-shield-heart me-2"></i> Healthcare & Welfare</span>
+                            <h1 class="display-4 text-white fw-extrabold mb-4 font-heading text-gradient-light">उत्कृष्ट स्वास्थ्य सेवा एवं जन कल्याण</h1>
+                            <p class="lead text-light-50 mb-5 text-shadow-sm fs-5">ग्रामीण क्षेत्रों में स्वास्थ्य शिविरों का आयोजन और पिछड़े वर्गों को मूलभूत सहायता पहुँचाना हमारा प्रमुख उद्देश्य है।</p>
                             <div class="d-flex flex-wrap justify-content-center gap-3">
-                                <a href="donate.php" class="btn btn-pill btn-pill-accent btn-lg"><i class="fa-solid fa-heart me-2"></i> सहयोग करें</a>
-                                <a href="contact.php" class="btn btn-pill btn-pill-outline-light btn-lg"><i class="fa-solid fa-phone me-2"></i> संपर्क करें</a>
+                                <a href="donate.php" class="btn btn-pill btn-pill-accent btn-lg shadow-lg"><i class="fa-solid fa-heart me-2"></i> सहयोग करें</a>
+                                <a href="about.php" class="btn btn-pill btn-pill-outline-light btn-lg"><i class="fa-solid fa-circle-info me-2"></i> हमारे बारे में</a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- Slide 4 -->
+
+            <!-- Slide 4: Environment Protection -->
             <div class="carousel-item">
-                <div class="carousel-img-wrap" style="background-image: linear-gradient(rgba(15, 23, 42, 0.6), rgba(15, 23, 42, 0.6)), url('images/banner_shg_training.png');"></div>
+                <div class="carousel-img-wrap" style="background-image: linear-gradient(rgba(15, 23, 42, 0.65), rgba(15, 23, 42, 0.75)), url('images/banner_shg_training.png');"></div>
                 <div class="carousel-caption-custom container">
                     <div class="row w-100 justify-content-center">
                         <div class="col-lg-10 col-xl-8 text-center">
-                            <span class="badge bg-primary text-white rounded-pill px-3 py-2 mb-3 fw-bold text-uppercase fs-7 tracking-wider">Skill Training</span>
-                            <h1 class="display-4 text-white fw-bold mb-4 font-heading text-gradient-light">निःशुल्क व्यावसायिक एवं कौशल प्रशिक्षण</h1>
-                            <p class="lead text-light-50 mb-5 text-shadow-sm fs-5">महिलाओं को सिलाई, कंप्यूटर शिक्षा और ब्यूटी पार्लर जैसे कोर्सेज द्वारा निःशुल्क प्रशिक्षित कर आत्मनिर्भर बनाना।</p>
+                            <span class="badge bg-warning text-dark rounded-pill px-4 py-2 mb-3 fw-bold text-uppercase fs-7 tracking-wider shadow"><i class="fa-solid fa-leaf me-2"></i> Environment Protection</span>
+                            <h1 class="display-4 text-white fw-extrabold mb-4 font-heading text-gradient-light">पर्यावरण संरक्षण एवं हरित क्रांति</h1>
+                            <p class="lead text-light-50 mb-5 text-shadow-sm fs-5">वृक्षारोपण और पर्यावरण जागरूकता अभियानों द्वारा प्रकृति की सुरक्षा और सुंदर वातावरण का संकल्प।</p>
                             <div class="d-flex flex-wrap justify-content-center gap-3">
-                                <a href="programs.php" class="btn btn-pill btn-pill-accent btn-lg"><i class="fa-solid fa-graduation-cap me-2"></i> कोर्सेज देखें</a>
-                                <a href="contact.php" class="btn btn-pill btn-pill-outline-light btn-lg"><i class="fa-solid fa-phone me-2"></i> संपर्क करें</a>
+                                <a href="volunteer.php" class="btn btn-pill btn-pill-accent btn-lg shadow-lg"><i class="fa-solid fa-hands-holding-child me-2"></i> स्वयंसेवक बनें</a>
+                                <a href="donate.php" class="btn btn-pill btn-pill-outline-light btn-lg"><i class="fa-solid fa-heart me-2"></i> सहयोग करें</a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- Slide 5 -->
+
+            <!-- Slide 5: Youth & Relief Services -->
             <div class="carousel-item">
-                <div class="carousel-img-wrap" style="background-image: linear-gradient(rgba(15, 23, 42, 0.6), rgba(15, 23, 42, 0.6)), url('images/banner_shg_employment.png');"></div>
+                <div class="carousel-img-wrap" style="background-image: linear-gradient(rgba(15, 23, 42, 0.65), rgba(15, 23, 42, 0.75)), url('images/banner_shg_employment.png');"></div>
                 <div class="carousel-caption-custom container">
                     <div class="row w-100 justify-content-center">
                         <div class="col-lg-10 col-xl-8 text-center">
-                            <span class="badge bg-primary text-white rounded-pill px-3 py-2 mb-3 fw-bold text-uppercase fs-7 tracking-wider">Livelihoods</span>
-                            <h1 class="display-4 text-white fw-bold mb-4 font-heading text-gradient-light">लघु उद्योग एवं ग्रामीण रोजगार</h1>
-                            <p class="lead text-light-50 mb-5 text-shadow-sm fs-5">आचार, पापड़, मसाला और अगरबत्ती उद्योग के माध्यम से ग्रामीण परिवारों के लिए स्थानीय स्वरोजगार के अवसर।</p>
+                            <span class="badge bg-info text-white rounded-pill px-4 py-2 mb-3 fw-bold text-uppercase fs-7 tracking-wider shadow"><i class="fa-solid fa-handshake-angle me-2"></i> Youth & Relief Services</span>
+                            <h1 class="display-4 text-white fw-extrabold mb-4 font-heading text-gradient-light">युवा विकास एवं आपदा राहत सेवाएँ</h1>
+                            <p class="lead text-light-50 mb-5 text-shadow-sm fs-5">युवाओं को मार्गदर्शन देने के साथ-साथ प्राकृतिक आपदाओं और आपात स्थितियों में त्वरित राहत सामग्री पहुँचाना।</p>
                             <div class="d-flex flex-wrap justify-content-center gap-3">
-                                <a href="programs.php" class="btn btn-pill btn-pill-accent btn-lg"><i class="fa-solid fa-briefcase me-2"></i> रोजगार योजना</a>
+                                <a href="donate.php" class="btn btn-pill btn-pill-accent btn-lg shadow-lg"><i class="fa-solid fa-heart me-2"></i> अभी दान करें</a>
                                 <a href="contact.php" class="btn btn-pill btn-pill-outline-light btn-lg"><i class="fa-solid fa-phone me-2"></i> संपर्क करें</a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+
         </div>
+
         <!-- Prev & Next Controls -->
         <button class="carousel-control-prev" type="button" data-bs-target="#heroCarousel" data-bs-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -110,6 +117,38 @@ include 'includes/header.php';
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Next</span>
         </button>
+    </div>
+
+    <!-- Quick Credentials Strip Below Banner -->
+    <div class="bg-dark text-white py-3 border-top border-bottom border-light border-opacity-10 shadow-sm">
+        <div class="container">
+            <div class="row g-3 justify-content-center text-center align-items-center">
+                <div class="col-6 col-md-3">
+                    <div class="d-flex align-items-center justify-content-center gap-2">
+                        <i class="fa-solid fa-award text-success fs-5"></i>
+                        <span class="small fw-bold">80G & 12A Certified</span>
+                    </div>
+                </div>
+                <div class="col-6 col-md-3">
+                    <div class="d-flex align-items-center justify-content-center gap-2">
+                        <i class="fa-solid fa-layer-group text-primary fs-5"></i>
+                        <span class="small fw-bold">8 Core Focus Areas</span>
+                    </div>
+                </div>
+                <div class="col-6 col-md-3">
+                    <div class="d-flex align-items-center justify-content-center gap-2">
+                        <i class="fa-solid fa-building-flag text-warning fs-5"></i>
+                        <span class="small fw-bold">Uttarakhand Gov Approved</span>
+                    </div>
+                </div>
+                <div class="col-6 col-md-3">
+                    <div class="d-flex align-items-center justify-content-center gap-2">
+                        <i class="fa-solid fa-shield-check text-danger fs-5"></i>
+                        <span class="small fw-bold">100% Direct Impact</span>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 
     <!-- Trusted By / Credibility Badges -->

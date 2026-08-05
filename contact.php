@@ -1,6 +1,6 @@
-﻿<?php
+<?php
 $pageTitle = "Contact Us | Bhavika Welfare Foundation";
-$pageDescription = "Get in touch with Bhavika Welfare Foundation. Visit our offices in Bihar, call us, or send an email.";
+$pageDescription = "Get in touch with Bhavika Welfare Foundation. Visit our office in Uttarakhand, call us, or send an email.";
 $activePage = "contact";
 include 'includes/header.php';
 ?>
@@ -27,7 +27,7 @@ include 'includes/header.php';
                 <div class="col-lg-5 pe-lg-5 text-center text-lg-start" data-aos="fade-right">
                     <span class="eyebrow-tag mx-auto mx-lg-0 d-table d-lg-inline-block mb-3">Get in Touch</span>
                     <h2 class="mb-4 text-dark font-heading">Find Our Offices</h2>
-                    <p class="text-muted mb-4 lh-lg" style="font-size: 1.05rem;">We coordinate our operations from our offices in Vaishali and Motihari. Feel free to reach out to us.</p>
+                    <p class="text-muted mb-4 lh-lg" style="font-size: 1.05rem;">We coordinate our operations from our office in Haldwani, Uttarakhand. Feel free to reach out to us.</p>
 
                     <div class="d-flex flex-column gap-4 mb-4 text-start">
                         <div class="d-flex align-items-center gap-4 p-4 bg-white rounded-4 shadow-sm border-start border-primary border-4 hover-translate-up transition-transform">
@@ -36,7 +36,7 @@ include 'includes/header.php';
                             </div>
                             <div>
                                 <h4 class="fw-bold h6 mb-1 text-dark">Registered Office</h4>
-                                <p class="text-muted small mb-0">Mahua, Vaishali, Bihar</p>
+                                <p class="text-muted small mb-0">Sultanpur, Golapar, Haldwani, Uttarakhand</p>
                             </div>
                         </div>
                         <div class="d-flex align-items-center gap-4 p-4 bg-white rounded-4 shadow-sm border-start border-primary border-4 hover-translate-up transition-transform">
@@ -45,7 +45,7 @@ include 'includes/header.php';
                             </div>
                             <div>
                                 <h4 class="fw-bold h6 mb-1 text-dark">Office Address</h4>
-                                <p class="text-muted small mb-0">Pakadi Dayal, Motihari, Bihar</p>
+                                <p class="text-muted small mb-0">Sultanpur, Golapar, Haldwani, Uttarakhand</p>
                             </div>
                         </div>
                         <div class="d-flex align-items-center gap-4 p-4 bg-white rounded-4 shadow-sm border-start border-secondary border-4 hover-translate-up transition-transform">
@@ -96,7 +96,7 @@ include 'includes/header.php';
                                 </div>
                                 <div class="col-md-6">
                                     <label class="form-label fw-bold text-dark small">Phone Number</label>
-                                    <input type="tel" class="form-control form-control-custom" placeholder="+91 7463014750" required>
+                                    <input type="tel" class="form-control form-control-custom" placeholder="+91 8865944833" required>
                                 </div>
                                 <div class="col-12">
                                     <label class="form-label fw-bold text-dark small">Subject</label>

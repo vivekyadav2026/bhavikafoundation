@@ -148,7 +148,7 @@ include 'includes/header.php';
             </div>
             
             <div class="row g-4 justify-content-center team-grid">
-                <div class="col-6 col-md-4" data-aos="fade-up" data-aos-delay="100">
+                <div class="col-12 col-md-4" data-aos="fade-up" data-aos-delay="100">
                     <div class="profile-card h-100 d-flex flex-column align-items-center justify-content-between p-3 p-md-4">
                         <div class="text-center">
                             <div class="position-relative d-inline-block">
@@ -165,7 +165,7 @@ include 'includes/header.php';
                         </p>
                     </div>
                 </div>
-                <div class="col-6 col-md-4" data-aos="fade-up" data-aos-delay="200">
+                <div class="col-12 col-md-4" data-aos="fade-up" data-aos-delay="200">
                     <div class="profile-card h-100 d-flex flex-column align-items-center justify-content-between p-3 p-md-4">
                         <div class="text-center">
                             <div class="position-relative d-inline-block">
@@ -182,7 +182,7 @@ include 'includes/header.php';
                         </p>
                     </div>
                 </div>
-                <div class="col-12 col-md-4 d-flex justify-content-center mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="300">
+                <div class="col-12 col-md-4" data-aos="fade-up" data-aos-delay="300">
                     <div class="profile-card h-100 d-flex flex-column align-items-center justify-content-between p-3 p-md-4" style="max-width: 360px; width: 100%;">
                         <div class="text-center">
                             <div class="position-relative d-inline-block">
