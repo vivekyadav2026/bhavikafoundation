@@ -126,10 +126,19 @@ include 'includes/header.php';
         </div>
     </section>
     
-    <!-- Full Width Map Embed -->
-    <div class="container-fluid px-0 border-top border-bottom border-light">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2866.1078225958354!2d79.56164927552177!3d29.198095275360654!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjnCsDExJzUzLjEiTiA3OcKwMzMnNTEuMiJF!5e1!3m2!1sen!2sin!4v1785969006624!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-    </div>
+    <!-- Location Map Embed -->
+    <section class="section-padding bg-white border-top">
+        <div class="container">
+            <div class="text-center mb-4" data-aos="fade-up">
+                <span class="eyebrow-tag mx-auto d-table mb-2">Visit Our Office</span>
+                <h3 class="fw-bold">Find Us on Google Maps</h3>
+                <p class="text-muted small">Sultanpur, Golapar, Haldwani, Uttarakhand</p>
+            </div>
+            <div class="rounded-4 overflow-hidden shadow-lg border" data-aos="zoom-in" style="height: 450px;">
+                <iframe src="https://maps.google.com/maps?q=Sultanpur%2C%20Golapar%2C%20Haldwani%2C%20Uttarakhand&t=&z=14&ie=UTF8&iwloc=&output=embed" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+            </div>
+        </div>
+    </section>
 
     <script>
         function submitContactForm(event) {
