@@ -143,7 +143,7 @@ include 'includes/header.php';
                 </div>
                 <div class="col-6 col-md-3">
                     <div class="d-flex align-items-center justify-content-center gap-2">
-                        <i class="fa-solid fa-shield-check text-danger fs-5"></i>
+                        <i class="fa-solid fa-shield-halved text-danger fs-5"></i>
                         <span class="small fw-bold">100% Direct Impact</span>
                     </div>
                 </div>
@@ -166,7 +166,7 @@ include 'includes/header.php';
                 </div>
                 <div class="col-6 col-md-3" data-aos="fade-up" data-aos-delay="200">
                     <div class="p-3 rounded-4 bg-canvas border shadow-sm h-100 d-flex align-items-center justify-content-center gap-3">
-                        <i class="fa-solid fa-shield-check text-success fs-3"></i>
+                        <i class="fa-solid fa-shield-halved text-success fs-3"></i>
                         <div class="text-start">
                             <h4 class="fw-extrabold text-dark mb-0 h5">12A Registered</h4>
                             <small class="text-muted" style="font-size:11px;">Tax Exempt Trust</small>
@@ -216,7 +216,7 @@ include 'includes/header.php';
                     <div class="d-flex flex-wrap gap-3 mt-4 justify-content-center justify-content-lg-start">
                         <div class="d-flex align-items-center gap-3 bg-white py-2.5 px-4 rounded-pill border shadow-sm transition-transform hover-translate-up">
                             <div class="bg-success bg-opacity-10 rounded-circle d-flex align-items-center justify-content-center" style="width: 40px; height: 40px; flex-shrink: 0;">
-                                <i class="fa-solid fa-shield-check text-success fs-5"></i>
+                                <i class="fa-solid fa-shield-halved text-success fs-5"></i>
                             </div>
                             <span class="fw-bold text-dark" style="font-size: 0.9rem;">Gov Recognized</span>
                         </div>
@@ -245,6 +245,64 @@ include 'includes/header.php';
                         </div>
                     </div>
                 </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Leadership Team Section -->
+    <section class="section-padding bg-white position-relative border-top">
+        <div class="container position-relative z-1">
+            <div class="text-center mb-5" data-aos="fade-up">
+                <span class="eyebrow-tag mx-auto d-table mb-3">Our Leadership</span>
+                <h2 class="fw-bold">Dedicated Executive Leadership</h2>
+                <div class="mx-auto" style="width: 50px; height: 3px; background: var(--primary); border-radius: var(--radius-pill); margin-top: 15px; margin-bottom: 15px;"></div>
+                <p class="text-muted mx-auto" style="max-width: 600px;">The driving force behind Bhavika Welfare Foundation, leading our mission toward women empowerment and rural self-reliance.</p>
+            </div>
+            
+            <div class="row g-4 justify-content-center">
+                <!-- Director & Head of Department: Mrs. Babita -->
+                <div class="col-12 col-md-6 col-lg-5" data-aos="fade-up" data-aos-delay="100">
+                    <div class="card h-100 border-0 rounded-4 shadow-sm overflow-hidden transition-all hover-translate-up bg-canvas">
+                        <div class="position-relative overflow-hidden">
+                            <img src="images/director_babita.jpg" class="card-img-top object-fit-cover" style="height: 340px; object-position: top center;" alt="Mrs. Babita - Director & Head of Department">
+                            <span class="badge bg-primary position-absolute top-0 end-0 m-3 px-3 py-2 rounded-pill fw-bold shadow-sm" style="font-size: 0.78rem; letter-spacing: 0.5px;">DIRECTOR</span>
+                        </div>
+                        <div class="card-body p-4 text-center d-flex flex-column justify-content-between">
+                            <div>
+                                <h3 class="fw-bold h4 text-dark mb-1">Mrs. Babita</h3>
+                                <p class="text-primary small fw-bold text-uppercase mb-3" style="letter-spacing: 0.8px; font-size: 0.8rem;">Director & Head of Department</p>
+                                <div class="mx-auto mb-3" style="width: 36px; height: 3px; background: var(--accent); border-radius: var(--radius-pill);"></div>
+                                <p class="text-muted small lh-relaxed mb-0">
+                                    Guiding organizational strategy, department operations, and free vocational training centers across Uttarakhand.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Joint Director: Mr. Brij Mohan -->
+                <div class="col-12 col-md-6 col-lg-5" data-aos="fade-up" data-aos-delay="200">
+                    <div class="card h-100 border-0 rounded-4 shadow-sm overflow-hidden transition-all hover-translate-up bg-canvas">
+                        <div class="position-relative overflow-hidden">
+                            <img src="images/director_brij_mohan.jpg" class="card-img-top object-fit-cover" style="height: 340px; object-position: top center;" alt="Mr. Brij Mohan - Joint Director">
+                            <span class="badge bg-dark position-absolute top-0 end-0 m-3 px-3 py-2 rounded-pill fw-bold shadow-sm" style="font-size: 0.78rem; letter-spacing: 0.5px;">JOINT DIRECTOR</span>
+                        </div>
+                        <div class="card-body p-4 text-center d-flex flex-column justify-content-between">
+                            <div>
+                                <h3 class="fw-bold h4 text-dark mb-1">Mr. Brij Mohan</h3>
+                                <p class="text-primary small fw-bold text-uppercase mb-3" style="letter-spacing: 0.8px; font-size: 0.8rem;">Joint Director</p>
+                                <div class="mx-auto mb-3" style="width: 36px; height: 3px; background: var(--accent); border-radius: var(--radius-pill);"></div>
+                                <p class="text-muted small lh-relaxed mb-0">
+                                    Directing field execution, village community outreach, and ensuring welfare schemes reach every deserving family.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="text-center mt-5" data-aos="fade-up">
+                <a href="team.php" class="btn btn-pill btn-pill-accent btn-md px-4 shadow-sm"><i class="fa-solid fa-users me-2"></i> Meet Our Leadership Team</a>
             </div>
         </div>
     </section>

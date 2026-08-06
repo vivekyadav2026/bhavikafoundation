@@ -37,7 +37,7 @@ include 'includes/header.php';
                     <div class="d-flex flex-wrap gap-3 mt-4 justify-content-center justify-content-lg-start">
                         <div class="d-flex align-items-center gap-3 bg-white py-2.5 px-4 rounded-pill border shadow-sm transition-transform hover-translate-up">
                             <div class="bg-success bg-opacity-10 rounded-circle d-flex align-items-center justify-content-center" style="width: 40px; height: 40px; flex-shrink: 0;">
-                                <i class="fa-solid fa-shield-check text-success fs-5"></i>
+                                <i class="fa-solid fa-shield-halved text-success fs-5"></i>
                             </div>
                             <span class="fw-bold text-dark" style="font-size: 0.9rem;">Gov Recognized</span>
                         </div>
@@ -104,31 +104,24 @@ include 'includes/header.php';
             <div class="text-center mb-5 pb-2" data-aos="fade-up">
                 <span class="eyebrow-tag mx-auto d-table mb-3">Timeline of Impact</span>
                 <h2 class="fw-bold">Milestone Markers</h2>
-                <p class="text-muted mx-auto mt-2" style="max-width: 550px;">A brief look at our journey from grassroots actions to a certified recognized foundation.</p>
+                <p class="text-muted mx-auto mt-2" style="max-width: 550px;">Established in 2026 as a government-recognized foundation committed to grassroots transformation.</p>
             </div>
 
             <div class="row justify-content-center">
                 <div class="col-lg-9" data-aos="fade-up">
                     <div class="timeline-track mt-2">
                         <div class="timeline-node">
-                            <div class="timeline-tag">2021</div>
+                            <div class="timeline-tag">2026</div>
                             <div class="bg-white p-4 rounded-4 shadow-sm border border-light">
-                                <h4 class="fw-bold h5 mb-2 text-dark">Weekend Mentorship Focus</h4>
-                                <p class="text-muted fs-6 mb-0 lh-relaxed">Began tutoring underprivileged children and formulating basic vocational guidelines in rural clusters, identifying critical livelihood needs of their mothers.</p>
+                                <h4 class="fw-bold h5 mb-2 text-dark">Foundation Establishment & Govt Recognition</h4>
+                                <p class="text-muted fs-6 mb-0 lh-relaxed">Officially registered under Govt of Uttarakhand with NITI Aayog NGO DARPAN ID (UK/2026/1165289) and TAN certification (MRTB1083F).</p>
                             </div>
                         </div>
                         <div class="timeline-node">
-                            <div class="timeline-tag">2023</div>
+                            <div class="timeline-tag">2026</div>
                             <div class="bg-white p-4 rounded-4 shadow-sm border border-light">
-                                <h4 class="fw-bold h5 mb-2 text-dark">Trust Registration & Training Center</h4>
-                                <p class="text-muted fs-6 mb-0 lh-relaxed">Officially registered the charitable foundation. Established our flagship training facility and launched comprehensive healthcare and environmental programs.</p>
-                            </div>
-                        </div>
-                        <div class="timeline-node">
-                            <div class="timeline-tag">2025</div>
-                            <div class="bg-white p-4 rounded-4 shadow-sm border border-light">
-                                <h4 class="fw-bold h5 mb-2 text-dark">Exemption Certifications & Micro-finance</h4>
-                                <p class="text-muted fs-6 mb-0 lh-relaxed">Secured Section 80G & 12A tax exemption statuses. Expanded our impact across 8 core focus areas including youth development, community welfare, and relief services.</p>
+                                <h4 class="fw-bold h5 mb-2 text-dark">Haldwani Center Launch & Vocational Programs</h4>
+                                <p class="text-muted fs-6 mb-0 lh-relaxed">Established our flagship training facility in Haldwani, launching 100% free tailoring, computer literacy, and cottage industry self-employment programs across 8 core focus areas.</p>
                             </div>
                         </div>
                     </div>

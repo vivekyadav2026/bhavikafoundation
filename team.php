@@ -87,7 +87,7 @@ include 'includes/header.php';
                 <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
                     <div class="p-4 rounded-4 bg-canvas border text-center h-100 shadow-sm transition-all hover-translate-up">
                         <div class="bg-primary bg-opacity-10 text-primary rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3" style="width: 60px; height: 60px;">
-                            <i class="fa-solid fa-shield-check fs-3"></i>
+                            <i class="fa-solid fa-shield-halved fs-3"></i>
                         </div>
                         <h4 class="fw-bold h5 text-dark mb-2">Govt Recognition</h4>
                         <p class="text-muted small mb-0">Registered under Govt of Uttarakhand with NGO DARPAN ID (UK/2026/1165289) and TAN Certification.</p>
