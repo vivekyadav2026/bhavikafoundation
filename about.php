@@ -21,17 +21,17 @@ include 'includes/header.php';
         <div class="container">
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 pe-lg-5 text-center text-lg-start" data-aos="fade-right">
-                    <span class="eyebrow-tag mx-auto mx-lg-0 d-table d-lg-inline-block mb-3">हमारे बारे में</span>
-                    <h2 class="mb-4 text-dark lh-sm" style="font-family: var(--font-heading); font-weight: 800;">भाविका वेलफेयर फाउंडेशन <br> <span class="text-primary fs-4" style="font-weight: 600;">(उत्तराखंड सरकार द्वारा मान्यता प्राप्त)</span></h2>
+                    <span class="eyebrow-tag mx-auto mx-lg-0 d-table d-lg-inline-block mb-3">About Us</span>
+                    <h2 class="mb-4 text-dark lh-sm" style="font-family: var(--font-heading); font-weight: 800;">Bhavika Welfare Foundation <br> <span class="text-primary fs-4" style="font-weight: 600;">(Recognized by Govt of Uttarakhand)</span></h2>
                     
                     <div class="p-3 bg-white rounded-4 border-start border-primary border-4 shadow-sm mb-4 text-start">
-                        <p class="lead mb-0 text-dark fw-semibold style-hindi" style="line-height: 1.8; font-size: 1.1rem;">
-                            ये महिला उत्थान, महिला सशक्तिकरण, महिला विकास के लिए उठाया गया एक प्रयास है।
+                        <p class="lead mb-0 text-dark fw-semibold" style="line-height: 1.8; font-size: 1.05rem;">
+                            “An earnest initiative dedicated to women upliftment, empowerment, and holistic community development.”
                         </p>
                     </div>
                     
                     <p class="text-muted mb-4 lh-lg text-start" style="font-size: 1.05rem;">
-                        भाविका वेलफेयर फाउंडेशन का मुख्य उद्देश्य समाज के वंचित और कमजोर वर्गों का समग्र विकास करना है। हम शिक्षा, स्वास्थ्य, महिला सशक्तिकरण, कौशल विकास, पर्यावरण संरक्षण, युवा विकास और सामुदायिक कल्याण जैसे प्रमुख क्षेत्रों में निरंतर कार्यरत हैं। हमारा लक्ष्य एक आत्मनिर्भर, स्वस्थ और खुशहाल समाज का निर्माण करना है।
+                        The primary objective of Bhavika Welfare Foundation is the comprehensive development of underprivileged and vulnerable sections of society. We actively work across 8 core focus areas including Education, Healthcare, Women Empowerment, Skill Development, Environmental Protection, Youth Development, Community Welfare, and Emergency Relief Services to build a self-reliant, healthy, and prosperous nation.
                     </p>
                     
                     <div class="d-flex flex-wrap gap-3 mt-4 justify-content-center justify-content-lg-start">
@@ -148,54 +148,37 @@ include 'includes/header.php';
             </div>
             
             <div class="row g-4 justify-content-center team-grid">
-                <div class="col-12 col-md-4" data-aos="fade-up" data-aos-delay="100">
-                    <div class="profile-card h-100 d-flex flex-column align-items-center justify-content-between p-3 p-md-4">
+                <div class="col-12 col-md-5" data-aos="fade-up" data-aos-delay="100">
+                    <div class="profile-card h-100 d-flex flex-column align-items-center justify-content-between p-4">
                         <div class="text-center">
                             <div class="position-relative d-inline-block">
-                                <img src="images/avatar_Bhavika_devi.png" class="profile-avatar mb-3" alt="Bhavika Devi">
+                                <img src="images/director_babita.jpg" class="profile-avatar mb-3" style="width: 130px; height: 130px; object-fit: cover; object-position: top center;" alt="Mrs. Babita">
                                 <span class="position-absolute bottom-0 end-0 bg-primary text-white rounded-circle d-flex align-items-center justify-content-center shadow" style="width: 32px; height: 32px; border: 3px solid var(--white);">
                                     <i class="fa-solid fa-quote-left" style="font-size: 0.75rem;"></i>
                                 </span>
                             </div>
-                            <h4 class="fw-bold h6 mb-1 text-dark" style="font-size: 1.05rem;">Mrs. Bhavika Devi</h4>
-                            <p class="text-primary small fw-bold mb-3" style="font-size: 0.8rem; letter-spacing: 0.5px;">Founder & Chairperson</p>
+                            <h4 class="fw-bold h6 mb-1 text-dark" style="font-size: 1.1rem;">Mrs. Babita</h4>
+                            <p class="text-primary small fw-bold mb-3" style="font-size: 0.8rem; letter-spacing: 0.5px;">Director & Head of Department</p>
                         </div>
-                        <p class="text-muted mb-0 italic-quote font-small" style="font-size: 0.82rem; line-height: 1.5; font-style: italic;">
-                            "True empowerment begins when a woman has the skills to earn her own livelihood and support her family."
+                        <p class="text-muted mb-0 italic-quote font-small text-center" style="font-size: 0.85rem; line-height: 1.5; font-style: italic;">
+                            "True empowerment begins when women have the skills to earn their own livelihood and support their families."
                         </p>
                     </div>
                 </div>
-                <div class="col-12 col-md-4" data-aos="fade-up" data-aos-delay="200">
-                    <div class="profile-card h-100 d-flex flex-column align-items-center justify-content-between p-3 p-md-4">
+                <div class="col-12 col-md-5" data-aos="fade-up" data-aos-delay="200">
+                    <div class="profile-card h-100 d-flex flex-column align-items-center justify-content-between p-4">
                         <div class="text-center">
                             <div class="position-relative d-inline-block">
-                                <img src="images/avatar_rajesh_kumar.png" class="profile-avatar mb-3" alt="Rajesh Kumar">
+                                <img src="images/director_brij_mohan.jpg" class="profile-avatar mb-3" style="width: 130px; height: 130px; object-fit: cover; object-position: top center;" alt="Mr. Brij Mohan">
                                 <span class="position-absolute bottom-0 end-0 bg-primary text-white rounded-circle d-flex align-items-center justify-content-center shadow" style="width: 32px; height: 32px; border: 3px solid var(--white);">
                                     <i class="fa-solid fa-quote-left" style="font-size: 0.75rem;"></i>
                                 </span>
                             </div>
-                            <h4 class="fw-bold h6 mb-1 text-dark" style="font-size: 1.05rem;">Mr. Rajesh Kumar</h4>
-                            <p class="text-primary small fw-bold mb-3" style="font-size: 0.8rem; letter-spacing: 0.5px;">Director of Operations</p>
+                            <h4 class="fw-bold h6 mb-1 text-dark" style="font-size: 1.1rem;">Mr. Brij Mohan</h4>
+                            <p class="text-primary small fw-bold mb-3" style="font-size: 0.8rem; letter-spacing: 0.5px;">Joint Director</p>
                         </div>
-                        <p class="text-muted mb-0 italic-quote font-small" style="font-size: 0.82rem; line-height: 1.5; font-style: italic;">
-                            "We coordinate directly with local villages to ensure resources are distributed where they are needed most."
-                        </p>
-                    </div>
-                </div>
-                <div class="col-12 col-md-4" data-aos="fade-up" data-aos-delay="300">
-                    <div class="profile-card h-100 d-flex flex-column align-items-center justify-content-between p-3 p-md-4" style="max-width: 360px; width: 100%;">
-                        <div class="text-center">
-                            <div class="position-relative d-inline-block">
-                                <img src="images/avatar_anita_singh.png" class="profile-avatar mb-3" alt="Dr. Anita Singh">
-                                <span class="position-absolute bottom-0 end-0 bg-primary text-white rounded-circle d-flex align-items-center justify-content-center shadow" style="width: 32px; height: 32px; border: 3px solid var(--white);">
-                                    <i class="fa-solid fa-quote-left" style="font-size: 0.75rem;"></i>
-                                </span>
-                            </div>
-                            <h4 class="fw-bold h6 mb-1 text-dark" style="font-size: 1.05rem;">Dr. Anita Singh</h4>
-                            <p class="text-primary small fw-bold mb-3" style="font-size: 0.8rem; letter-spacing: 0.5px;">Head of Vocational Training</p>
-                        </div>
-                        <p class="text-muted mb-0 italic-quote font-small" style="font-size: 0.82rem; line-height: 1.5; font-style: italic;">
-                            "Focusing on holistic skill development ensures our youth and women build sustainable livelihoods."
+                        <p class="text-muted mb-0 italic-quote font-small text-center" style="font-size: 0.85rem; line-height: 1.5; font-style: italic;">
+                            "We coordinate directly with local villages to ensure welfare schemes and vocational training reach every household."
                         </p>
                     </div>
                 </div>

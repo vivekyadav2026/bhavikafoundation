@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $pageTitle = "Our Programs | Bhavika Welfare Foundation";
 $pageDescription = "Explore our 8 core focus areas including Education, Healthcare, Women Empowerment, and Environment Protection.";
 $activePage = "programs";
@@ -23,7 +23,7 @@ include 'includes/header.php';
                         <div class="bg-primary bg-opacity-10 text-primary rounded-circle d-flex align-items-center justify-content-center mb-4" style="width: 70px; height: 70px;">
                             <i class="fa-solid fa-book-open fs-2"></i>
                         </div>
-                        <h3 class="fw-bold h4 mb-3 text-dark">Education <span class="text-muted fs-6">(शिक्षा)</span></h3>
+                        <h3 class="fw-bold h4 mb-3 text-dark">Education</h3>
                         <p class="text-muted lh-relaxed mb-0">Providing quality education and resources to underprivileged children and adults to build a foundation for a better future.</p>
                     </div>
                 </div>
@@ -33,7 +33,7 @@ include 'includes/header.php';
                         <div class="bg-danger bg-opacity-10 text-danger rounded-circle d-flex align-items-center justify-content-center mb-4" style="width: 70px; height: 70px;">
                             <i class="fa-solid fa-shield-heart fs-2"></i>
                         </div>
-                        <h3 class="fw-bold h4 mb-3 text-dark">Healthcare <span class="text-muted fs-6">(स्वास्थ्य सेवा)</span></h3>
+                        <h3 class="fw-bold h4 mb-3 text-dark">Healthcare</h3>
                         <p class="text-muted lh-relaxed mb-0">Organizing medical camps, awareness programs, and providing healthcare access to rural and marginalized communities.</p>
                     </div>
                 </div>
@@ -43,7 +43,7 @@ include 'includes/header.php';
                         <div class="bg-success bg-opacity-10 text-success rounded-circle d-flex align-items-center justify-content-center mb-4" style="width: 70px; height: 70px;">
                             <i class="fa-solid fa-venus fs-2"></i>
                         </div>
-                        <h3 class="fw-bold h4 mb-3 text-dark">Women Empowerment <span class="text-muted fs-6">(महिला सशक्तिकरण)</span></h3>
+                        <h3 class="fw-bold h4 mb-3 text-dark">Women Empowerment</h3>
                         <p class="text-muted lh-relaxed mb-0">Empowering women through financial independence, rights awareness, and leadership opportunities in society.</p>
                     </div>
                 </div>
@@ -53,7 +53,7 @@ include 'includes/header.php';
                         <div class="bg-warning bg-opacity-10 text-warning rounded-circle d-flex align-items-center justify-content-center mb-4" style="width: 70px; height: 70px;">
                             <i class="fa-solid fa-gears fs-2"></i>
                         </div>
-                        <h3 class="fw-bold h4 mb-3 text-dark">Skill Development <span class="text-muted fs-6">(कौशल विकास)</span></h3>
+                        <h3 class="fw-bold h4 mb-3 text-dark">Skill Development</h3>
                         <p class="text-muted lh-relaxed mb-0">Offering vocational training and skill-building programs to help youth and adults secure sustainable livelihoods.</p>
                     </div>
                 </div>
@@ -63,7 +63,7 @@ include 'includes/header.php';
                         <div class="bg-success bg-opacity-10 text-success rounded-circle d-flex align-items-center justify-content-center mb-4" style="width: 70px; height: 70px;">
                             <i class="fa-solid fa-leaf fs-2"></i>
                         </div>
-                        <h3 class="fw-bold h4 mb-3 text-dark">Environment Protection <span class="text-muted fs-6">(पर्यावरण संरक्षण)</span></h3>
+                        <h3 class="fw-bold h4 mb-3 text-dark">Environment Protection</h3>
                         <p class="text-muted lh-relaxed mb-0">Conducting tree plantation drives, promoting sustainable practices, and spreading awareness about climate change.</p>
                     </div>
                 </div>
@@ -73,7 +73,7 @@ include 'includes/header.php';
                         <div class="bg-primary bg-opacity-10 text-primary rounded-circle d-flex align-items-center justify-content-center mb-4" style="width: 70px; height: 70px;">
                             <i class="fa-solid fa-users fs-2"></i>
                         </div>
-                        <h3 class="fw-bold h4 mb-3 text-dark">Youth Development <span class="text-muted fs-6">(युवा विकास)</span></h3>
+                        <h3 class="fw-bold h4 mb-3 text-dark">Youth Development</h3>
                         <p class="text-muted lh-relaxed mb-0">Guiding the younger generation through mentorship, sports, and career counseling to shape responsible future leaders.</p>
                     </div>
                 </div>
@@ -83,7 +83,7 @@ include 'includes/header.php';
                         <div class="bg-info bg-opacity-10 text-info rounded-circle d-flex align-items-center justify-content-center mb-4" style="width: 70px; height: 70px;">
                             <i class="fa-solid fa-people-roof fs-2"></i>
                         </div>
-                        <h3 class="fw-bold h4 mb-3 text-dark">Community Welfare <span class="text-muted fs-6">(सामुदायिक कल्याण)</span></h3>
+                        <h3 class="fw-bold h4 mb-3 text-dark">Community Welfare</h3>
                         <p class="text-muted lh-relaxed mb-0">Fostering unity and improving living standards by supporting infrastructure, sanitation, and social harmony initiatives.</p>
                     </div>
                 </div>
@@ -93,7 +93,7 @@ include 'includes/header.php';
                         <div class="bg-secondary bg-opacity-10 text-secondary rounded-circle d-flex align-items-center justify-content-center mb-4" style="width: 70px; height: 70px;">
                             <i class="fa-solid fa-handshake-angle fs-2"></i>
                         </div>
-                        <h3 class="fw-bold h4 mb-3 text-dark">Relief Services <span class="text-muted fs-6">(राहत सेवाएँ)</span></h3>
+                        <h3 class="fw-bold h4 mb-3 text-dark">Relief Services</h3>
                         <p class="text-muted lh-relaxed mb-0">Providing immediate humanitarian aid, food, shelter, and medical support during natural disasters and emergencies.</p>
                     </div>
                 </div>

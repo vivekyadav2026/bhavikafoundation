@@ -27,23 +27,24 @@
                 <div class="d-flex align-items-center gap-2 flex-shrink-0">
                     <a href="https://www.facebook.com/bhavikawelfarefoundation" target="_blank" class="top-social-icon" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
                     <a href="https://www.instagram.com/bhavikawelfarefoundation?igsh=ZWdtdTB1bXdlNjQz" target="_blank" class="top-social-icon" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+                    <a href="https://wa.me/918865944833" target="_blank" class="top-social-icon bg-success text-white" aria-label="WhatsApp"><i class="fab fa-whatsapp"></i></a>
                     <a href="https://www.bhavikawelfarefoundation.org" target="_blank" class="top-social-icon" aria-label="Website"><i class="fas fa-globe"></i></a>
                 </div>
                 
                 <!-- Middle Side: News & Updates Marquee -->
                 <div class="news-ticker-container d-flex align-items-center mx-4 flex-grow-1">
                     <div class="news-ticker-badge">
-                        <i class="fa-solid fa-bolt me-1"></i> समाचार एवं अपडेट
+                        <i class="fa-solid fa-bolt me-1"></i> News & Updates
                     </div>
                     <div class="news-ticker-content">
                         <div class="news-ticker-scroll">
-                            <span>“हमसे जुड़ें और सूचित रहें: जीवन को सशक्त बनाना, समुदायों को बदलना!”</span>
+                            <span>“Join us & stay informed: Empowering lives, transforming communities!”</span>
                             <span class="ticker-separator"></span>
-                            <span>“हमसे जुड़ें और सूचित रहें: जीवन को सशक्त बनाना, समुदायों को बदलना!”</span>
+                            <span>“Join us & stay informed: Empowering lives, transforming communities!”</span>
                             <span class="ticker-separator"></span>
-                            <span>“हमसे जुड़ें और सूचित रहें: जीवन को सशक्त बनाना, समुदायों को बदलना!”</span>
+                            <span>“Join us & stay informed: Empowering lives, transforming communities!”</span>
                             <span class="ticker-separator"></span>
-                            <span>“हमसे जुड़ें और सूचित रहें: जीवन को सशक्त बनाना, समुदायों को बदलना!”</span>
+                            <span>“Join us & stay informed: Empowering lives, transforming communities!”</span>
                         </div>
                     </div>
                 </div>
@@ -74,15 +75,15 @@
                 <!-- Row 2: News Updates Marquee -->
                 <div class="news-ticker-container d-flex align-items-center w-100" style="height: 30px;">
                     <div class="news-ticker-badge px-2" style="font-size: 0.75rem; height: 100%;">
-                        <i class="fa-solid fa-bolt me-1"></i> समाचार एवं अपडेट
+                        <i class="fa-solid fa-bolt me-1"></i> News & Updates
                     </div>
                     <div class="news-ticker-content">
                         <div class="news-ticker-scroll" style="animation-duration: 25s;">
-                            <span>“हमसे जुड़ें और सूचित रहें: जीवन को सशक्त बनाना, समुदायों को बदलना!”</span>
+                            <span>“Join us & stay informed: Empowering lives, transforming communities!”</span>
                             <span class="ticker-separator"></span>
-                            <span>“हमसे जुड़ें और सूचित रहें: जीवन को सशक्त बनाना, समुदायों को बदलना!”</span>
+                            <span>“Join us & stay informed: Empowering lives, transforming communities!”</span>
                             <span class="ticker-separator"></span>
-                            <span>“हमसे जुड़ें और सूचित रहें: जीवन को सशक्त बनाना, समुदायों को बदलना!”</span>
+                            <span>“Join us & stay informed: Empowering lives, transforming communities!”</span>
                         </div>
                     </div>
                 </div>
@@ -101,15 +102,17 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto align-items-center">
-                    <li class="nav-item"><a class="nav-link <?php echo (isset($activePage) && $activePage === 'home') ? 'active' : ''; ?>" href="index.php">मुख्य पृष्ठ</a></li>
-                    <li class="nav-item"><a class="nav-link <?php echo (isset($activePage) && $activePage === 'about') ? 'active' : ''; ?>" href="about.php">हमारे बारे में</a></li>
-                    <li class="nav-item"><a class="nav-link <?php echo (isset($activePage) && $activePage === 'programs') ? 'active' : ''; ?>" href="programs.php">हमारे कार्यक्रम</a></li>
-                    <li class="nav-item"><a class="nav-link <?php echo (isset($activePage) && $activePage === 'gallery') ? 'active' : ''; ?>" href="gallery.php">गैलरी</a></li>
-                    <li class="nav-item"><a class="nav-link <?php echo (isset($activePage) && $activePage === 'volunteer') ? 'active' : ''; ?>" href="volunteer.php">स्वयंसेवक बनें</a></li>
-                    <li class="nav-item"><a class="nav-link <?php echo (isset($activePage) && $activePage === 'contact') ? 'active' : ''; ?>" href="contact.php">संपर्क करें</a></li>
-                    <li class="nav-item ms-lg-4 mt-3 mt-lg-0">
+                    <li class="nav-item"><a class="nav-link <?php echo (isset($activePage) && $activePage === 'home') ? 'active' : ''; ?>" href="index.php">Home</a></li>
+                    <li class="nav-item"><a class="nav-link <?php echo (isset($activePage) && $activePage === 'about') ? 'active' : ''; ?>" href="about.php">About Us</a></li>
+                    <li class="nav-item"><a class="nav-link <?php echo (isset($activePage) && $activePage === 'programs') ? 'active' : ''; ?>" href="programs.php">Our Programs</a></li>
+                    <li class="nav-item"><a class="nav-link <?php echo (isset($activePage) && $activePage === 'team') ? 'active' : ''; ?>" href="team.php">Our Team</a></li>
+                    <li class="nav-item"><a class="nav-link <?php echo (isset($activePage) && $activePage === 'gallery') ? 'active' : ''; ?>" href="gallery.php">Gallery</a></li>
+                    <li class="nav-item"><a class="nav-link <?php echo (isset($activePage) && $activePage === 'news') ? 'active' : ''; ?>" href="news.php">News & Events</a></li>
+                    <li class="nav-item"><a class="nav-link <?php echo (isset($activePage) && $activePage === 'volunteer') ? 'active' : ''; ?>" href="volunteer.php">Volunteer</a></li>
+                    <li class="nav-item"><a class="nav-link <?php echo (isset($activePage) && $activePage === 'contact') ? 'active' : ''; ?>" href="contact.php">Contact Us</a></li>
+                    <li class="nav-item ms-lg-2 mt-3 mt-lg-0">
                         <a href="donate.php" class="btn btn-pill btn-pill-accent btn-navbar">
-                            <i class="fa-solid fa-heart me-2"></i> अभी दान करें
+                            <i class="fa-solid fa-heart me-2"></i> Donate Now
                         </a>
                     </li>
                 </ul>

@@ -23,11 +23,11 @@ include 'includes/header.php';
                     <div class="row w-100 justify-content-center">
                         <div class="col-lg-10 col-xl-8 text-center" data-aos="fade-up" data-aos-duration="1000">
                             <span class="badge bg-primary text-white rounded-pill px-4 py-2 mb-3 fw-bold text-uppercase fs-7 tracking-wider shadow"><i class="fa-solid fa-graduation-cap me-2"></i> Education & Mission</span>
-                            <h1 class="display-4 text-white fw-extrabold mb-4 font-heading text-gradient-light">सशक्त समाज, उज्ज्वल भविष्य</h1>
-                            <p class="lead text-light-50 mb-5 text-shadow-sm fs-5">ग्रामीण बच्चों और महिलाओं को गुणवत्तापूर्ण शिक्षा और कौशल विकास से जोड़कर एक समृद्ध समाज का निर्माण करना।</p>
+                            <h1 class="display-4 text-white fw-extrabold mb-4 font-heading text-gradient-light">Empowered Society, Brighter Future</h1>
+                            <p class="lead text-light-50 mb-5 text-shadow-sm fs-5">Building a prosperous community by linking rural children and women with quality education and skill development.</p>
                             <div class="d-flex flex-wrap justify-content-center gap-3">
-                                <a href="donate.php" class="btn btn-pill btn-pill-accent btn-lg shadow-lg"><i class="fa-solid fa-heart me-2"></i> सहयोग करें</a>
-                                <a href="programs.php" class="btn btn-pill btn-pill-outline-light btn-lg"><i class="fa-solid fa-list me-2"></i> हमारे कार्यक्रम</a>
+                                <a href="donate.php" class="btn btn-pill btn-pill-accent btn-lg shadow-lg"><i class="fa-solid fa-heart me-2"></i> Donate Now</a>
+                                <a href="programs.php" class="btn btn-pill btn-pill-outline-light btn-lg"><i class="fa-solid fa-list me-2"></i> Our Programs</a>
                             </div>
                         </div>
                     </div>
@@ -41,11 +41,11 @@ include 'includes/header.php';
                     <div class="row w-100 justify-content-center">
                         <div class="col-lg-10 col-xl-8 text-center">
                             <span class="badge bg-success text-white rounded-pill px-4 py-2 mb-3 fw-bold text-uppercase fs-7 tracking-wider shadow"><i class="fa-solid fa-venus me-2"></i> Women Empowerment</span>
-                            <h1 class="display-4 text-white fw-extrabold mb-4 font-heading text-gradient-light">महिला आत्मनिर्भरता एवं सम्मान</h1>
-                            <p class="lead text-light-50 mb-5 text-shadow-sm fs-5">ग्रामीण महिलाओं को शैक्षणिक, सामाजिक एवं आर्थिक रूप से सशक्त बनाकर स्वावलंबी बनाने के लिए निरंतर प्रयत्नशील।</p>
+                            <h1 class="display-4 text-white fw-extrabold mb-4 font-heading text-gradient-light">Women Self-Reliance & Dignity</h1>
+                            <p class="lead text-light-50 mb-5 text-shadow-sm fs-5">Striving continuously to empower rural women educationally, socially, and economically for self-reliance.</p>
                             <div class="d-flex flex-wrap justify-content-center gap-3">
-                                <a href="donate.php" class="btn btn-pill btn-pill-accent btn-lg shadow-lg"><i class="fa-solid fa-heart me-2"></i> अभी दान करें</a>
-                                <a href="contact.php" class="btn btn-pill btn-pill-outline-light btn-lg"><i class="fa-solid fa-phone me-2"></i> संपर्क करें</a>
+                                <a href="donate.php" class="btn btn-pill btn-pill-accent btn-lg shadow-lg"><i class="fa-solid fa-heart me-2"></i> Donate Now</a>
+                                <a href="contact.php" class="btn btn-pill btn-pill-outline-light btn-lg"><i class="fa-solid fa-phone me-2"></i> Contact Us</a>
                             </div>
                         </div>
                     </div>
@@ -59,11 +59,11 @@ include 'includes/header.php';
                     <div class="row w-100 justify-content-center">
                         <div class="col-lg-10 col-xl-8 text-center">
                             <span class="badge bg-danger text-white rounded-pill px-4 py-2 mb-3 fw-bold text-uppercase fs-7 tracking-wider shadow"><i class="fa-solid fa-shield-heart me-2"></i> Healthcare & Welfare</span>
-                            <h1 class="display-4 text-white fw-extrabold mb-4 font-heading text-gradient-light">उत्कृष्ट स्वास्थ्य सेवा एवं जन कल्याण</h1>
-                            <p class="lead text-light-50 mb-5 text-shadow-sm fs-5">ग्रामीण क्षेत्रों में स्वास्थ्य शिविरों का आयोजन और पिछड़े वर्गों को मूलभूत सहायता पहुँचाना हमारा प्रमुख उद्देश्य है।</p>
+                            <h1 class="display-4 text-white fw-extrabold mb-4 font-heading text-gradient-light">Quality Healthcare & Community Welfare</h1>
+                            <p class="lead text-light-50 mb-5 text-shadow-sm fs-5">Organizing rural medical camps and providing essential healthcare assistance to underprivileged communities.</p>
                             <div class="d-flex flex-wrap justify-content-center gap-3">
-                                <a href="donate.php" class="btn btn-pill btn-pill-accent btn-lg shadow-lg"><i class="fa-solid fa-heart me-2"></i> सहयोग करें</a>
-                                <a href="about.php" class="btn btn-pill btn-pill-outline-light btn-lg"><i class="fa-solid fa-circle-info me-2"></i> हमारे बारे में</a>
+                                <a href="donate.php" class="btn btn-pill btn-pill-accent btn-lg shadow-lg"><i class="fa-solid fa-heart me-2"></i> Donate Now</a>
+                                <a href="about.php" class="btn btn-pill btn-pill-outline-light btn-lg"><i class="fa-solid fa-circle-info me-2"></i> About Us</a>
                             </div>
                         </div>
                     </div>
@@ -77,11 +77,11 @@ include 'includes/header.php';
                     <div class="row w-100 justify-content-center">
                         <div class="col-lg-10 col-xl-8 text-center">
                             <span class="badge bg-warning text-dark rounded-pill px-4 py-2 mb-3 fw-bold text-uppercase fs-7 tracking-wider shadow"><i class="fa-solid fa-leaf me-2"></i> Environment Protection</span>
-                            <h1 class="display-4 text-white fw-extrabold mb-4 font-heading text-gradient-light">पर्यावरण संरक्षण एवं हरित क्रांति</h1>
-                            <p class="lead text-light-50 mb-5 text-shadow-sm fs-5">वृक्षारोपण और पर्यावरण जागरूकता अभियानों द्वारा प्रकृति की सुरक्षा और सुंदर वातावरण का संकल्प।</p>
+                            <h1 class="display-4 text-white fw-extrabold mb-4 font-heading text-gradient-light">Environmental Protection & Green Initiative</h1>
+                            <p class="lead text-light-50 mb-5 text-shadow-sm fs-5">Protecting nature and building a clean environment through tree plantation drives and ecological awareness.</p>
                             <div class="d-flex flex-wrap justify-content-center gap-3">
-                                <a href="volunteer.php" class="btn btn-pill btn-pill-accent btn-lg shadow-lg"><i class="fa-solid fa-hands-holding-child me-2"></i> स्वयंसेवक बनें</a>
-                                <a href="donate.php" class="btn btn-pill btn-pill-outline-light btn-lg"><i class="fa-solid fa-heart me-2"></i> सहयोग करें</a>
+                                <a href="volunteer.php" class="btn btn-pill btn-pill-accent btn-lg shadow-lg"><i class="fa-solid fa-hands-holding-child me-2"></i> Become a Volunteer</a>
+                                <a href="donate.php" class="btn btn-pill btn-pill-outline-light btn-lg"><i class="fa-solid fa-heart me-2"></i> Donate Now</a>
                             </div>
                         </div>
                     </div>
@@ -95,11 +95,11 @@ include 'includes/header.php';
                     <div class="row w-100 justify-content-center">
                         <div class="col-lg-10 col-xl-8 text-center">
                             <span class="badge bg-info text-white rounded-pill px-4 py-2 mb-3 fw-bold text-uppercase fs-7 tracking-wider shadow"><i class="fa-solid fa-handshake-angle me-2"></i> Youth & Relief Services</span>
-                            <h1 class="display-4 text-white fw-extrabold mb-4 font-heading text-gradient-light">युवा विकास एवं आपदा राहत सेवाएँ</h1>
-                            <p class="lead text-light-50 mb-5 text-shadow-sm fs-5">युवाओं को मार्गदर्शन देने के साथ-साथ प्राकृतिक आपदाओं और आपात स्थितियों में त्वरित राहत सामग्री पहुँचाना।</p>
+                            <h1 class="display-4 text-white fw-extrabold mb-4 font-heading text-gradient-light">Youth Development & Relief Services</h1>
+                            <p class="lead text-light-50 mb-5 text-shadow-sm fs-5">Guiding the youth while delivering rapid humanitarian relief during natural disasters and emergencies.</p>
                             <div class="d-flex flex-wrap justify-content-center gap-3">
-                                <a href="donate.php" class="btn btn-pill btn-pill-accent btn-lg shadow-lg"><i class="fa-solid fa-heart me-2"></i> अभी दान करें</a>
-                                <a href="contact.php" class="btn btn-pill btn-pill-outline-light btn-lg"><i class="fa-solid fa-phone me-2"></i> संपर्क करें</a>
+                                <a href="donate.php" class="btn btn-pill btn-pill-accent btn-lg shadow-lg"><i class="fa-solid fa-heart me-2"></i> Donate Now</a>
+                                <a href="contact.php" class="btn btn-pill btn-pill-outline-light btn-lg"><i class="fa-solid fa-phone me-2"></i> Contact Us</a>
                             </div>
                         </div>
                     </div>
@@ -154,39 +154,39 @@ include 'includes/header.php';
     <!-- Trusted By / Credibility Badges -->
     <section class="py-5 bg-white border-top border-bottom">
         <div class="container">
-            <div class="row g-4 align-items-center justify-content-center text-center">
-                <div class="col-6 col-md-3">
-                    <div class="d-flex align-items-center justify-content-center gap-3 opacity-75 hover-opacity-100 transition-all">
-                        <i class="fa-solid fa-shield-check text-primary fs-2"></i>
+            <div class="row align-items-center justify-content-center g-4 text-center">
+                <div class="col-6 col-md-3" data-aos="fade-up" data-aos-delay="100">
+                    <div class="p-3 rounded-4 bg-canvas border shadow-sm h-100 d-flex align-items-center justify-content-center gap-3">
+                        <i class="fa-solid fa-certificate text-primary fs-3"></i>
                         <div class="text-start">
-                            <h6 class="mb-0 fw-bold small text-dark">80G CERTIFIED</h6>
-                            <small class="text-muted" style="font-size:11px;">Ref: AAETM2345RF20241</small>
+                            <h4 class="fw-extrabold text-dark mb-0 h5">80G Certified</h4>
+                            <small class="text-muted" style="font-size:11px;">50% Tax Exemption</small>
                         </div>
                     </div>
                 </div>
-                <div class="col-6 col-md-3">
-                    <div class="d-flex align-items-center justify-content-center gap-3 opacity-75 hover-opacity-100 transition-all">
-                        <i class="fa-solid fa-building-circle-check text-primary fs-2"></i>
+                <div class="col-6 col-md-3" data-aos="fade-up" data-aos-delay="200">
+                    <div class="p-3 rounded-4 bg-canvas border shadow-sm h-100 d-flex align-items-center justify-content-center gap-3">
+                        <i class="fa-solid fa-shield-check text-success fs-3"></i>
                         <div class="text-start">
-                            <h6 class="mb-0 fw-bold small text-dark">NITI AAYOG</h6>
-                            <small class="text-muted" style="font-size:11px;">Darpan Verified</small>
+                            <h4 class="fw-extrabold text-dark mb-0 h5">12A Registered</h4>
+                            <small class="text-muted" style="font-size:11px;">Tax Exempt Trust</small>
                         </div>
                     </div>
                 </div>
-                <div class="col-6 col-md-3">
-                    <div class="d-flex align-items-center justify-content-center gap-3 opacity-75 hover-opacity-100 transition-all">
-                        <i class="fa-solid fa-file-invoice text-primary fs-2"></i>
+                <div class="col-6 col-md-3" data-aos="fade-up" data-aos-delay="300">
+                    <div class="p-3 rounded-4 bg-canvas border shadow-sm h-100 d-flex align-items-center justify-content-center gap-3">
+                        <i class="fa-solid fa-hand-holding-hand text-danger fs-3"></i>
                         <div class="text-start">
-                            <h6 class="mb-0 fw-bold small text-dark">AUDITED STATUS</h6>
-                            <small class="text-muted" style="font-size:11px;">GuideStar Transparency</small>
+                            <h4 class="fw-extrabold text-dark mb-0 h5">NITI Aayog</h4>
+                            <small class="text-muted" style="font-size:11px;">Darpan ID Registered</small>
                         </div>
                     </div>
                 </div>
-                <div class="col-6 col-md-3">
-                    <div class="d-flex align-items-center justify-content-center gap-3 opacity-75 hover-opacity-100 transition-all">
-                        <i class="fa-solid fa-handshake-angle text-primary fs-2"></i>
+                <div class="col-6 col-md-3" data-aos="fade-up" data-aos-delay="400">
+                    <div class="p-3 rounded-4 bg-canvas border shadow-sm h-100 d-flex align-items-center justify-content-center gap-3">
+                        <i class="fa-solid fa-building text-warning fs-3"></i>
                         <div class="text-start">
-                            <h6 class="mb-0 fw-bold small text-dark">CSR ELIGIBLE</h6>
+                            <h4 class="fw-extrabold text-dark mb-0 h5">MCA Approved</h4>
                             <small class="text-muted" style="font-size:11px;">Ref: CSR0004512</small>
                         </div>
                     </div>
@@ -195,22 +195,22 @@ include 'includes/header.php';
         </div>
     </section>
 
-    <!-- About Us Section (हमारे बारे में) -->
+    <!-- About Us Section -->
     <section class="section-padding bg-canvas position-relative overflow-hidden">
         <div class="container">
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 pe-lg-5 text-center text-lg-start" data-aos="fade-right">
-                    <span class="eyebrow-tag mx-auto mx-lg-0 d-table d-lg-inline-block mb-3">हमारे बारे में</span>
-                    <h2 class="mb-4 text-dark lh-sm" style="font-family: var(--font-heading); font-weight: 800;">भाविका वेलफेयर फाउंडेशन <br> <span class="text-primary fs-4" style="font-weight: 600;">(उत्तराखंड सरकार द्वारा मान्यता प्राप्त)</span></h2>
+                    <span class="eyebrow-tag mx-auto mx-lg-0 d-table d-lg-inline-block mb-3">About Us</span>
+                    <h2 class="mb-4 text-dark lh-sm" style="font-family: var(--font-heading); font-weight: 800;">Bhavika Welfare Foundation <br> <span class="text-primary fs-4" style="font-weight: 600;">(Recognized by Govt of Uttarakhand)</span></h2>
                     
                     <div class="p-3 bg-white rounded-4 border-start border-primary border-4 shadow-sm mb-4 text-start">
-                        <p class="lead mb-0 text-dark fw-semibold style-hindi" style="line-height: 1.8; font-size: 1.1rem;">
-                            ये महिला उत्थान, महिला सशक्तिकरण, महिला विकास के लिए उठाया गया एक प्रयास है।
+                        <p class="lead mb-0 text-dark fw-semibold" style="line-height: 1.8; font-size: 1.05rem;">
+                            “An earnest initiative dedicated to women upliftment, empowerment, and holistic community development.”
                         </p>
                     </div>
                     
                     <p class="text-muted mb-4 lh-lg text-start" style="font-size: 1.05rem;">
-                        ये संस्था ग्रामीण परिवार के महिलाओ को स्वरोजगार करने के लिये प्रेरित कराती है तथा सरकार द्वारा दी जाने वाली योजना का लाभ दिलाने में मदद कराती हैं। महिलाओ को रोजगार करने हेतु निःशुल्क ट्रेंनिंग उपलबब्ध कराती है। भाविका वेलफेयर फाउंडेशन ग्रामीण विकास और महिलाओं की आत्मनिर्भरता के लिए निरंतर प्रयत्नशील है।
+                        Our organization inspires women and families in rural communities towards self-employment while facilitating access to government welfare schemes. We provide free vocational training and drive sustainable rural development across Uttarakhand.
                     </p>
                     
                     <div class="d-flex flex-wrap gap-3 mt-4 justify-content-center justify-content-lg-start">
@@ -254,7 +254,7 @@ include 'includes/header.php';
         <div class="container">
             <div class="text-center mb-5 pb-4" data-aos="fade-up">
                 <span class="eyebrow-tag">Our Focus Areas</span>
-                <h2>हमारे मुख्य कार्यक्षेत्र</h2>
+                <h2>Our Core Focus Areas</h2>
                 <div class="mx-auto" style="width: 60px; height: 4px; background: linear-gradient(90deg, var(--primary), var(--secondary)); border-radius: var(--radius-pill); margin-top: 15px;"></div>
             </div>
 
@@ -266,7 +266,7 @@ include 'includes/header.php';
                             <i class="fa-solid fa-book-open fs-3"></i>
                         </div>
                         <h4 class="fw-bold h5 mb-3 text-dark">Education</h4>
-                        <p class="text-muted small mb-0 lh-relaxed">शिक्षा</p>
+                        <p class="text-muted small mb-0 lh-relaxed">Quality schooling & scholarships</p>
                     </div>
                 </div>
                 <!-- Healthcare -->
@@ -276,7 +276,7 @@ include 'includes/header.php';
                             <i class="fa-solid fa-shield-heart fs-3"></i>
                         </div>
                         <h4 class="fw-bold h5 mb-3 text-dark">Healthcare</h4>
-                        <p class="text-muted small mb-0 lh-relaxed">स्वास्थ्य सेवा</p>
+                        <p class="text-muted small mb-0 lh-relaxed">Free medical camps & health aid</p>
                     </div>
                 </div>
                 <!-- Women Empowerment -->
@@ -286,7 +286,7 @@ include 'includes/header.php';
                             <i class="fa-solid fa-venus fs-3"></i>
                         </div>
                         <h4 class="fw-bold h5 mb-3 text-dark">Women Empowerment</h4>
-                        <p class="text-muted small mb-0 lh-relaxed">महिला सशक्तिकरण</p>
+                        <p class="text-muted small mb-0 lh-relaxed">Self-reliance & leadership</p>
                     </div>
                 </div>
                 <!-- Skill Development -->
@@ -296,7 +296,7 @@ include 'includes/header.php';
                             <i class="fa-solid fa-gears fs-3"></i>
                         </div>
                         <h4 class="fw-bold h5 mb-3 text-dark">Skill Development</h4>
-                        <p class="text-muted small mb-0 lh-relaxed">कौशल विकास</p>
+                        <p class="text-muted small mb-0 lh-relaxed">Vocational & digital courses</p>
                     </div>
                 </div>
                 <!-- Environment Protection -->
@@ -306,7 +306,7 @@ include 'includes/header.php';
                             <i class="fa-solid fa-leaf fs-3"></i>
                         </div>
                         <h4 class="fw-bold h5 mb-3 text-dark">Environment Protection</h4>
-                        <p class="text-muted small mb-0 lh-relaxed">पर्यावरण संरक्षण</p>
+                        <p class="text-muted small mb-0 lh-relaxed">Tree plantation & sustainability</p>
                     </div>
                 </div>
                 <!-- Youth Development -->
@@ -316,7 +316,7 @@ include 'includes/header.php';
                             <i class="fa-solid fa-users fs-3"></i>
                         </div>
                         <h4 class="fw-bold h5 mb-3 text-dark">Youth Development</h4>
-                        <p class="text-muted small mb-0 lh-relaxed">युवा विकास</p>
+                        <p class="text-muted small mb-0 lh-relaxed">Guidance & youth empowerment</p>
                     </div>
                 </div>
                 <!-- Community Welfare -->
@@ -326,7 +326,7 @@ include 'includes/header.php';
                             <i class="fa-solid fa-people-roof fs-3"></i>
                         </div>
                         <h4 class="fw-bold h5 mb-3 text-dark">Community Welfare</h4>
-                        <p class="text-muted small mb-0 lh-relaxed">सामुदायिक कल्याण</p>
+                        <p class="text-muted small mb-0 lh-relaxed">Rural development & assistance</p>
                     </div>
                 </div>
                 <!-- Relief Services -->
@@ -336,13 +336,13 @@ include 'includes/header.php';
                             <i class="fa-solid fa-handshake-angle fs-3"></i>
                         </div>
                         <h4 class="fw-bold h5 mb-3 text-dark">Relief Services</h4>
-                        <p class="text-muted small mb-0 lh-relaxed">राहत सेवाएँ</p>
+                        <p class="text-muted small mb-0 lh-relaxed">Emergency & disaster relief</p>
                     </div>
                 </div>
             </div>
             
             <div class="text-center mt-5">
-                <a href="programs.php" class="btn btn-pill btn-pill-primary btn-lg"><i class="fa-solid fa-list me-2"></i> सभी कार्यक्रम देखें</a>
+                <a href="programs.php" class="btn btn-pill btn-pill-primary btn-lg"><i class="fa-solid fa-list me-2"></i> View All Programs</a>
             </div>
         </div>
     </section>
@@ -351,17 +351,17 @@ include 'includes/header.php';
         <div class="container">
             <div class="row align-items-center g-5 flex-lg-row-reverse">
                 <div class="col-lg-6 ps-lg-5 text-center text-lg-start" data-aos="fade-left">
-                    <span class="eyebrow-tag mx-auto mx-lg-0 d-table d-lg-inline-block mb-3">विशेष पहल</span>
-                    <h2 class="mb-4 text-dark lh-sm" style="font-family: var(--font-heading); font-weight: 800;">मंगलम योजना</h2>
+                    <span class="eyebrow-tag mx-auto mx-lg-0 d-table d-lg-inline-block mb-3">Special Initiative</span>
+                    <h2 class="mb-4 text-dark lh-sm" style="font-family: var(--font-heading); font-weight: 800;">Mangalam Scheme</h2>
                     
                     <div class="p-3 bg-canvas rounded-4 border-start border-danger border-4 shadow-sm mb-4 text-start">
-                        <p class="lead mb-0 text-dark fw-semibold style-hindi" style="line-height: 1.8; font-size: 1.1rem;">
-                            हमारी संस्था की ओर से चलाये जा रही मंगलम योजना ग्रामीण परिवार के लोगो को बेटी की शादी के समय आर्थिक सहायता प्रदान कराती है जो एक सौगात के रूप में दिया जाता है।
+                        <p class="lead mb-0 text-dark fw-semibold" style="line-height: 1.8; font-size: 1.1rem;">
+                            Our organization's Mangalam Scheme provides financial gift assistance to rural families for daughter marriages.
                         </p>
                     </div>
                     
                     <p class="text-muted mb-4 lh-lg text-start" style="font-size: 1.05rem;">
-                        इसमें 18 साल से काम उम्र की लड़कियों के लिए ये योजना हैं।
+                        This scheme is designed to support eligible families and ease marriage financial burdens.
                     </p>
                     
                     <div class="d-flex flex-wrap gap-3 mt-4 justify-content-center justify-content-lg-start">
@@ -369,7 +369,7 @@ include 'includes/header.php';
                             <div class="bg-danger bg-opacity-10 rounded-circle d-flex align-items-center justify-content-center" style="width: 40px; height: 40px; flex-shrink: 0;">
                                 <i class="fa-solid fa-gift text-danger fs-5"></i>
                             </div>
-                            <span class="fw-bold text-dark" style="font-size: 0.9rem;">शादी में आर्थिक सहायता (सौगात)</span>
+                            <span class="fw-bold text-dark" style="font-size: 0.9rem;">Marriage Gift Assistance</span>
                         </div>
                     </div>
                 </div>
@@ -382,8 +382,8 @@ include 'includes/header.php';
                                     <i class="fa-solid fa-hands-holding-child fs-5"></i>
                                 </div>
                                 <div>
-                                    <h4 class="fw-extrabold text-danger mb-0 h5">मंगलम सौगात</h4>
-                                    <p class="small text-muted mb-0 fw-bold text-uppercase" style="letter-spacing: 0.5px; font-size: 0.7rem;">बेटी के विवाह पर सहयोग</p>
+                                    <h4 class="fw-extrabold text-danger mb-0 h5">Mangalam Gift</h4>
+                                    <p class="small text-muted mb-0 fw-bold text-uppercase" style="letter-spacing: 0.5px; font-size: 0.7rem;">Marriage Aid Support</p>
                                 </div>
                             </div>
                         </div>
@@ -399,7 +399,7 @@ include 'includes/header.php';
             <div class="row align-items-center g-5">
                 <div class="col-lg-6 pe-lg-5 text-center text-lg-start" data-aos="fade-right">
                     <span class="eyebrow-tag mx-auto mx-lg-0 d-table d-lg-inline-block">Core Value Pillars</span>
-                    <h2 class="mb-4">दानदाता हम पर भरोसा क्यों करते हैं?</h2>
+                    <h2 class="mb-4">Why Donors Trust Our Mission</h2>
                     <p class="text-muted mb-5" style="font-size: 1.1rem;">We bridge the gap between resources and grassroots implementation. By establishing local operations and maintaining third-party auditing systems, we secure complete transparency.</p>
                     <div class="value-pillars-list d-flex flex-column gap-4">
                         <div class="value-pillar-item d-flex gap-4 p-4 rounded-4 transition-all">
@@ -471,7 +471,7 @@ include 'includes/header.php';
         <div class="container">
             <div class="text-center mb-5 pb-2" data-aos="fade-up">
                 <span class="eyebrow-tag">Moments of Impact</span>
-                <h2>संस्था की झलकियां (गैलरी)</h2>
+                <h2>Moments of Impact (Gallery)</h2>
                 <p class="text-muted mx-auto mt-2" style="max-width: 600px;">A glimpse into the daily operations and active training batches across our rural empowerment centers.</p>
             </div>
             

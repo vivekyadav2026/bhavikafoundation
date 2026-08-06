@@ -12,7 +12,7 @@ $razorpayKeyId = "rzp_test_BhavikaWelfareKey";
     <header class="page-header bg-white position-relative overflow-hidden py-5">
         <div class="hero-shape hero-shape-1" style="background: var(--primary-light); opacity: 0.15; top: -50%; right: -20%; width: 400px; height: 400px;"></div>
         <div class="container position-relative z-1" data-aos="fade-up">
-            <span class="eyebrow-tag text-primary mx-auto d-table mb-3">Secure Giving (सुरक्षित दान)</span>
+            <span class="eyebrow-tag text-primary mx-auto d-table mb-3">Secure Giving</span>
             <h1 class="page-header-title mb-3">Make a <span class="text-gradient">Donation</span></h1>
             <div class="mx-auto" style="width: 60px; height: 4px; background: linear-gradient(90deg, var(--primary), var(--secondary)); border-radius: var(--radius-pill); margin-bottom: 20px;"></div>
             <p class="lead text-muted mx-auto" style="max-width: 650px; font-size: 1.1rem; line-height: 1.6;">Your support changes lives. Every contribution directly funds free education, healthcare camps, environment protection, and women empowerment initiatives.</p>
@@ -90,7 +90,7 @@ $razorpayKeyId = "rzp_test_BhavikaWelfareKey";
                                 <form id="razorpayDonationForm" onsubmit="handleRazorpayPayment(event)">
                                     
                                     <!-- Amount Selection -->
-                                    <label class="form-label fw-bold text-dark mb-2">Select Donation Amount (रुपये)</label>
+                                    <label class="form-label fw-bold text-dark mb-2">Select Donation Amount (INR ₹)</label>
                                     <div class="d-flex flex-wrap gap-2 mb-3">
                                         <button type="button" class="btn btn-outline-primary btn-amount-preset rounded-pill px-3 py-2 fw-bold active" onclick="setDonationAmount(500, this)">₹500</button>
                                         <button type="button" class="btn btn-outline-primary btn-amount-preset rounded-pill px-3 py-2 fw-bold" onclick="setDonationAmount(1000, this)">₹1,000</button>
